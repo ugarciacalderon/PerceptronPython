@@ -41,3 +41,5 @@ class Perceptron:
 
             epochs +=1
 
+        return True
+
